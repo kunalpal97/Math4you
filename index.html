@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Addition</title>
+    <link rel="stylesheet" href="./Root/styles/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Luckiest+Guy&family=Merriweather:wght@400;700;900&family=Open+Sans:ital,wght@0,600;0,700;0,800;1,600;1,700&family=Poppins:ital,wght@0,400;0,700;1,600&family=Roboto:wght@700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <audio
+      id="myAudio"
+      src="./Root/audio/wrong.mp3"
+      alt="Wrong answer sound"
+    ></audio>
+
+    <header>
+      <div class="container">
+        <h1>Math 4 Kids</h1>
+        <ul>
+          <li class="current"><a href="./index.html">Add</a></li>
+          <li><a href="./subtract.html">Sub</a></li>
+          <li><a href="./multiply.html">Multiply</a></li>
+          <li><a href="./divide.html">Divide</a></li>
+        </ul>
+      </div>
+    </header>
+
+    <div class="wrapper">
+      <div class="equation">
+        <h1 id="num1">1</h1>
+        <h1>+</h1>
+        <h1 id="num2">2</h1>
+        <h1>=</h1>
+        <h1>?</h1>
+      </div>
+      <div class="answer-options">
+        <h1 id="option1"></h1>
+        <h1 id="option2"></h1>
+        <h1 id="option3"></h1>
+        <h1 id="option4"></h1>
+      </div>
+    </div>
+
+    <script src="./Root/scripts/add.js"></script>
+  </body>
+</html>
