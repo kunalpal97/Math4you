@@ -21,9 +21,11 @@ An interactive math learning platform designed to make arithmetic fun and engagi
 
 ## Images 
 - Addition Section
+  
 ![image](https://github.com/user-attachments/assets/6ebbc3fa-6ca5-4a24-9367-cb7cfe00d7bd)
 
-- Subtraction Section 
+- Subtraction Section
+  
 ![image](https://github.com/user-attachments/assets/2d83a535-e7ce-4ffe-b605-f9c57463c7f5)
 
 
