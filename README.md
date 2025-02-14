@@ -32,7 +32,7 @@ An interactive math learning platform designed to make arithmetic fun and engagi
 ## Live Demo
 
 
-Visit [mathquest.netlify.app](https://quick-math-quiz.netlify.app/)
+Visit : [mathquest.netlify.app](https://quick-math-quiz.netlify.app/)
 
 ## How to Use
 
@@ -46,12 +46,12 @@ Visit [mathquest.netlify.app](https://quick-math-quiz.netlify.app/)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mathquest.git
+git clone https://github.com/kunalpal97/Math4you.git
 ```
 
 2. Navigate to project directory:
 ```bash
-cd mathquest
+cd Math4you
 ```
 
 3. Open index.html in your browser or use a local server
@@ -91,5 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Your Name - (https://x.com/Kunalpal7981)
-Project Link: (https://quick-math-quiz.netlify.app/))
+Follow Me on Twitter : ``` (https://x.com/Kunalpal7981) ```
+
+Project Link : ```  (https://quick-math-quiz.netlify.app/) ```
