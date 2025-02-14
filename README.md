@@ -1,4 +1,4 @@
-# MathQuest: Interactive Quiz Game
+# Math4you : Interactive Quiz Game
 
 An interactive math learning platform designed to make arithmetic fun and engaging for kids through interactive quizzes and games.
 
